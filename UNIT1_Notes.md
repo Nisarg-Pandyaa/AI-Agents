@@ -15,3 +15,10 @@
      > `Understand natural language`: Interpret and respond to human instructions in a meaningful way. </br>
      > `Reason and plan`: Analyze information, make decisions, and devise strategies to solve problems. </br>
      > `Interact with its environment`: Gather information, take actions, and observe the results of those actions.
+     
+
+- Agent needs an AI Model at its core, and that LLMs are the most common type of AI models for this purpose.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# LLM (Large Language Model) : 
